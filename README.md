@@ -5,4 +5,6 @@
 ### 2. Baekjoon Judge [https://www.acmicpc.net/]
 ### 3. SW Expert Academy [https://swexpertacademy.com/main/main.do]
 ### 4. LeetCode[https://leetcode.com/problemset/all/]
-### 5. 
+### 5. Code Force [https://codeforces.com/]
+
+5/25 - 5/31 : Brute Force 완전 탐색 알고리즘 
