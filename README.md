@@ -7,8 +7,7 @@
 ### 4. LeetCode[https://leetcode.com/problemset/all/]
 ### 5. Code Force [https://codeforces.com/]
 
-```
-50문제씩 풀어보기 
+``` 
 
 5/25 - 5/31 : Brute Force 완전 탐색 알고리즘
 6/1 - 6/7 : BFS 
